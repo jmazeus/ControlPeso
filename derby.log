@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Feb 28 18:01:21 CST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-9a79-3b6d-000005497250 
+on database directory memory:C:\Users\mazeu\Documents\DesarrollosBackEnd\ControlPeso\ControlPeso\5b5584ec-a098-4798-95e5-0ce325885ca1 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/mazeu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=C:\Users\mazeu\Documents\DesarrollosBackEnd\ControlPeso\ControlPeso
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Feb 28 19:10:44 CST 2023:
+Shutting down instance a816c00e-0186-9a79-3b6d-000005497250 on database directory memory:C:\Users\mazeu\Documents\DesarrollosBackEnd\ControlPeso\ControlPeso\5b5584ec-a098-4798-95e5-0ce325885ca1 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
